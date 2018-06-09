@@ -1,2 +1,3 @@
 # hello-world
 New to coding, eager to learn
+Living in the Netherlands, US citizen, avid beer drinker, artist, teacher, helicopter pilot, and much more...
